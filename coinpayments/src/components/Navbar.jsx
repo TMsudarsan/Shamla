@@ -88,7 +88,7 @@ const Navbar = () => {
 
           <div className="">COINS</div>
           <div className="">SUPPORT</div>
-          <button className="border border-white text-white hover:text-black duration-200 font-semibold hover:bg-white px-5 py-2 rounded-full">
+          <button className="border cursor-pointer border-white text-white hover:text-black duration-200 font-semibold hover:bg-white px-5 py-2 rounded-full">
             LOG IN
           </button>
           <button className="border border-white text-black font-semibold bg-white px-5 py-2 rounded-full">
