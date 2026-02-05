@@ -30,10 +30,10 @@ const Navbar = () => {
             </p>
             <div className="group-hover:block hidden absolute dropdown-menu right-0 pt-4">
               <div className="flex flex-col w-44 gap-2 font-bold text-[14px] py-4 px-3 text-center bg-[#1A2440] text-white rounded-md">
-                <p className="cursor-pointer hover:text-gray-500 p-2 hover:bg-[#232E4D]">
+                <p className="cursor-pointer hover:text-gray-300 p-2 hover:bg-[#232E4D]">
                   BUSINESS FEATURE
                 </p>
-                <p className="cursor-pointer hover:text-gray-500 p-2 hover:bg-[#232E4D]">
+                <p className="cursor-pointer hover:text-gray-300 p-2 hover:bg-[#232E4D]">
                   MERCHANT TOOLS{" "}
                 </p>
               </div>
@@ -51,10 +51,10 @@ const Navbar = () => {
             </div>
             <div className="group-hover:block hidden absolute dropdown-menu right-0 pt-4">
               <div className="flex flex-col w-44 gap-2 font-bold text-[14px] py-4 px-3   bg-[#1A2440] text-white rounded-md">
-                <p className="cursor-pointer hover:text-gray-500 p-2 hover:bg-[#232E4D]">
+                <p className="cursor-pointer hover:text-gray-300 p-2 hover:bg-[#232E4D]">
                   Personal Wallet
                 </p>
-                <p className="cursor-pointer hover:text-gray-500 p-2 hover:bg-[#232E4D]">
+                <p className="cursor-pointer hover:text-gray-300 p-2 hover:bg-[#232E4D]">
                   Prepaid Cards{" "}
                 </p>
               </div>
@@ -70,16 +70,16 @@ const Navbar = () => {
             </p>
             <div className="group-hover:block hidden absolute dropdown-menu right-0 pt-4">
               <div className="flex flex-col w-44 gap-2 font-bold text-[14px] py-4 px-3  bg-[#1A2440] text-white rounded-md">
-                <p className="cursor-pointer hover:text-gray-500 p-2 hover:bg-[#232E4D]">
+                <p className="cursor-pointer hover:text-gray-300 p-2 hover:bg-[#232E4D]">
                   Integration Guide
                 </p>
-                <p className="cursor-pointer hover:text-gray-500 p-2 hover:bg-[#232E4D]">
+                <p className="cursor-pointer hover:text-gray-300 p-2 hover:bg-[#232E4D]">
                   Integration Options{" "}
                 </p>
-                <p className="cursor-pointer hover:text-gray-500 p-2 hover:bg-[#232E4D]">
+                <p className="cursor-pointer hover:text-gray-300 p-2 hover:bg-[#232E4D]">
                   API Documentation
                 </p>
-                <p className="cursor-pointer hover:text-gray-500 p-2 hover:bg-[#232E4D]">
+                <p className="cursor-pointer hover:text-gray-300 p-2 hover:bg-[#232E4D]">
                   FAQ
                 </p>
               </div>
